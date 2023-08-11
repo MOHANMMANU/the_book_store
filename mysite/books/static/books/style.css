@@ -1,0 +1,12 @@
+body{
+     background: white url("images/wallpaperflare.jpg");
+}
+.jumbotron{
+background: white url("images/wallpaperflarecom_wallpaper.jpg");
+}
+.jumbotron-special{
+background: white url("images/black.jpg");
+}
+.jumbotron-special h2{
+color: white;
+}
